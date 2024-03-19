@@ -1,4 +1,4 @@
-# Hi there 👋, my name is *Kalpesh Chopade*
+# Hi there 👋, my name is *Rajnish Yadav*
 
 A passionate MERN Stack developer from India
 
