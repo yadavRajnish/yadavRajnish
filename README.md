@@ -25,6 +25,6 @@ A passionate MERN Stack developer from India
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=yadavrajnish&icon=2&color=11)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
