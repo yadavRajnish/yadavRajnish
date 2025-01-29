@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rajnish Yadav
+# Hi there 👋
 
 A passionate MERN Stack developer from India
 
